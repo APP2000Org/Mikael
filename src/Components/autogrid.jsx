@@ -12,7 +12,6 @@ const useStyles = makeStyles(theme => ({
         color: theme.palette.text.secondary,
     },
 }));
-// change
 export default function AutoGrid() {
     const classes = useStyles();
 

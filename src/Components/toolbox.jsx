@@ -6,7 +6,6 @@ export const onMouseOut = event => {
   const el = event.target;
   el.style.color = "black";
 };
-// change
 export const onMouseOver = event => {
   const el = event.target;
   el.style.color = "blue";

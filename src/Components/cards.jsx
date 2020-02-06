@@ -21,7 +21,7 @@ const useStyles = makeStyles({
 export default function MediaCard() {
     const classes = useStyles();
 
-    return ( // change
+    return (
         <Card className={classes.card}>
             <CardActionArea>
                 <CardMedia
